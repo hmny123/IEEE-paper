@@ -21,7 +21,7 @@
 - After submitting the paper, it can be used by reviewers to check the data authenticity of the paper and the writing ideas of the paper. 
 - After the paper is successfully accepted, it can be provided as an open source library for everyone to study and reference.
 
-## Security
+### Security
 - All the code, data, and models given must not be used for commercial activities or misappropriated data for academic article creation without the permission of the person, other participating creators or instructors.
 - The code can be modified at will without violating the rest of the requirements, and the data can be cited by the rest of the relevant papers (where the source is indicated)
 - Any unauthorized theft of data is considered plagiarism
