@@ -51,4 +51,4 @@
 - Paper revision guidance and submission suggestions:professor Teoh Teik Toe
 
 ### License
-[MIT © Richard McRichface.](../LICENSE)
+- [Apache License 2.0](https://github.com/hmny123/IEEE-paper/blob/main/LICENSE)
