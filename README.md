@@ -25,6 +25,8 @@
 - All the code, data, and models given must not be used for commercial activities or misappropriated data for academic article creation without the permission of the person, other participating creators or instructors.
 - The code can be modified at will without violating the rest of the requirements, and the data can be cited by the rest of the relevant papers (where the source is indicated)
 - Any unauthorized theft of data is considered plagiarism
+- The copyright of the code is effective from the time it is completed. 
+- The copyright of the data shall be effective from the completion of the compilation.
 
 ### Background
 - paper:Improved convolutional neural network lung cancer classification detection method based on transfer learning and model compression 
@@ -35,6 +37,7 @@
 
 ### Extra Sections
 - All content is jointly owned by co-creators and instructors
+- If you have any questions about the project, please contact me immediately
 
 ### Maintainer(s)
 - hmny123 https://github.com/hmny123
