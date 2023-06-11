@@ -31,7 +31,7 @@
 ### Background
 - paper:Improved convolutional neural network lung cancer classification detection method based on transfer learning and model compression 
 - this repositories:Save the results of the experiment as well as other files
-- Statement of originality: All experiments involved in this paper are original and were independently completed by the creators. All experiments can be reproduced according to the given code, and the results are the same within the margin of error. The time, process, and result data of the experiment are saved in Weight&Biases. This project allows viewers to question all the process of the experiment, but malicious defamation, data fabrication and plagiarism will be prosecuted according to law.
+- Statement of originality: All experiments involved in this paper are original and were independently completed by the creators. All experiments can be reproduced according to the given code, and the results are the same within the margin of error. The time, process, and result data of the experiment are saved in Weight&Biases.
 
 ### Usage
 - Project understanding sequence: (dataset)->transfer_learning_effect->model_choose->resnet50_train_result->model_compression_method->model_compression
