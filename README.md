@@ -1,4 +1,3 @@
-
 ## Table of Contents
 - [Sections](#sections)
   - [Title](#title)
@@ -25,15 +24,14 @@
 - All the code, data, and models given must not be used for commercial activities or misappropriated data for academic article creation without the permission of the person, other participating creators or instructors.
 - Any unauthorized theft of data is considered plagiarism.
 - Any non-compliant use of code and data will be prosecuted in accordance with the law.
-- The copyright of the code is effective from the time it is completed. 
-- The copyright of the data shall be effective from the completion of the compilation.
-- The argumentation ideas and all related codes and experiments of this paper are independently completed by myself and my co-creators. Any attempt to illegally misappropriate research results will be prosecuted in accordance with the law.
-- Statement of originality: All experiments involved in this paper are original and were independently completed by the creators. All experiments can be reproduced according to the given code, and the results are the same within the margin of error. The time, process, and result data of the experiment are saved in Weight&Biases. This project allows viewers to question all the process of the experiment, but malicious defamation, data fabrication and plagiarism will be prosecuted according to law.
+- The copyright of the codes is effective from the time it is completed. 
+- The copyright of the datas shall be effective from the completion of the collections.
 - The code can be modified at will without violating the rest of the requirements, and the data can be cited by the rest of the relevant papers (where the source is indicated)
 
 ### Background
 - paper:Improved convolutional neural network lung cancer classification detection method based on transfer learning and model compression 
 - this repositories:Save the results of the experiment as well as other files
+- Statement of originality: All experiments involved in this paper are original and were independently completed by the creators. All experiments can be reproduced according to the given code, and the results are the same within the margin of error. The time, process, and result data of the experiment are saved in Weight&Biases. This project allows viewers to question all the process of the experiment, but malicious defamation, data fabrication and plagiarism will be prosecuted according to law.
 
 ### Usage
 - Project understanding sequence: (dataset)->transfer_learning_effect->model_choose->resnet50_train_result->model_compression_method->model_compression
